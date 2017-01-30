@@ -1,0 +1,6 @@
+site_name: Serverchip Documentation
+theme: 'material'
+extra:
+  palette:
+    primary: 'blue grey'
+    accent: 'green'
